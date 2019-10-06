@@ -1,1 +1,3 @@
 # robo
+
+A robo repo for all the pi wars code. More details to come...
